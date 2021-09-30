@@ -1,3 +1,4 @@
+LOCAL
 # quete_git_5
 Bonjour,
 Voici une belle journée pour initialiser mon nouvel ordinateur
